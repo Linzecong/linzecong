@@ -1,4 +1,4 @@
-[![Jecosine's github stats](https://github-readme-stats.vercel.app/api?username=linzecong&count_private=true&show_icons=true&theme=radical&hide_rank=true&custom_title=LPCong&hide_border=true&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
+[![Jecosine's github stats](https://github-readme-stats.vercel.app/api?username=linzecong&count_private=true&show_icons=true&theme=radical&custom_title=LPCong&cache_seconds=86400)](https://github.com/anuraghazra/github-readme-stats)
 
 <pre>
  ▄▄        ▄  ▄▄▄▄▄▄▄▄▄▄▄       ▄▄▄▄▄▄▄▄▄▄   ▄         ▄  ▄▄▄▄▄▄▄▄▄▄▄ 
